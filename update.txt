@@ -1,1 +1,2 @@
 In the second branch update.txt
+second line
